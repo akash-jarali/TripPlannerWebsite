@@ -60,8 +60,6 @@ TripPlannerWebsite/
 
 # 📸 Project Screenshots
 
-## 🏠 Home Page
-
 <img width="1906" height="778" alt="1" src="https://github.com/user-attachments/assets/75d6c53a-30af-4840-b567-b82d4daa793a" />
 <img width="1778" height="894" alt="2" src="https://github.com/user-attachments/assets/71fdfc61-f4f7-408d-8ff6-bda507a0517a" />
 <img width="1892" height="903" alt="3" src="https://github.com/user-attachments/assets/b45f24fd-5cef-47ca-b80d-93512bc8dc95" />
